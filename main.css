@@ -1,3 +1,82 @@
 body {
-  background-color: lightgreen;
+  background-color:white;
+  
+}
+
+.centerText{
+  text-align: center;
+}
+
+.center {
+  margin: auto;
+  width: 90%;
+}
+.nameFont {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+  font-size: 1.75em;
+  font-weight: bold;
+  margin: 0px;
+  border: 0px;
+  padding: 0px;  
+}
+
+.addressFont{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+  font-size: 1.25em;
+  font-weight: bold;
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+}
+
+.titleFont {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+  font-size: 1em;
+  font-weight: bold;
+  align-self: left;
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+}
+
+.parentDiv{
+  width: 70%;
+  border: 2px solid black;
+  margin: auto;
+}
+
+.headings {
+  margin-top: -10px;
+  margin-bottom: -10px;
+  border: 0px;
+  padding: 0px;  
+}
+
+.skillText{
+  text-align: center;
+}
+
+.jobHeadings {
+  font-style: italic;
+  border: 0px;
+  padding: 0px;  
+}
+
+.textBlock{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  border: 0px;
+  padding: 0px;
+}
+
+.lAlign {
+  text-align: left; 
+  width:49%; 
+  display: inline-block;
+}
+
+.rAlign {  
+  text-align: right;
+  width:50%;
+  display: inline-block;
 }
