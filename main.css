@@ -1,6 +1,5 @@
 body {
-  background-color:white;
-  
+  background-color:white;  
 }
 
 .centerText{
@@ -80,3 +79,5 @@ body {
   width:50%;
   display: inline-block;
 }
+
+/* TODO IDs for articles to follow */
