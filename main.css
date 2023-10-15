@@ -80,3 +80,49 @@ body {
   width:50%;
   display: inline-block;
 }
+
+.borderCS:hover {
+  border-style: none none none dotted;
+}
+
+#CustomerSuccess:hover{
+  border-style: dotted;
+  font-family: Comic Sans MS, cursive;
+  font-size: 1em;
+  font-weight: bold;
+  align-self: left;
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+}
+
+.borderBIA:hover {
+  border-style: none none none dashed;
+}
+
+#BusinessIA:hover{
+  border-style: dotted;
+  font-family: Verdana, sans-serif;
+  font-style: italic;
+  font-size: 1em;
+  font-weight: bold;
+  align-self: left;
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+}
+
+.borderCSM:hover {
+  border-style: none none none double;
+}
+
+#CSM:hover{
+  border-style: dotted;
+  font-family: 'Courier New', monospace;
+  font-size: 1em;
+  font-weight: bold;
+  align-self: left;
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+}
